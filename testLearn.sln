@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\Bu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckStringNoRepeat", "CheckStringNoRepeat\CheckStringNoRepeat.csproj", "{9488182B-5E50-4FD5-BF4B-A4CDF4DE4B74}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngleCalculation", "AngleCalculation\AngleCalculation.csproj", "{5322633F-7962-437C-97CE-5341560DF923}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleCalculation", "AngleCalculation\AngleCalculation.csproj", "{A7098CC0-25C1-49C8-8C7A-46B5E2638A15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{9488182B-5E50-4FD5-BF4B-A4CDF4DE4B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9488182B-5E50-4FD5-BF4B-A4CDF4DE4B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9488182B-5E50-4FD5-BF4B-A4CDF4DE4B74}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5322633F-7962-437C-97CE-5341560DF923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5322633F-7962-437C-97CE-5341560DF923}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5322633F-7962-437C-97CE-5341560DF923}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5322633F-7962-437C-97CE-5341560DF923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7098CC0-25C1-49C8-8C7A-46B5E2638A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7098CC0-25C1-49C8-8C7A-46B5E2638A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7098CC0-25C1-49C8-8C7A-46B5E2638A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7098CC0-25C1-49C8-8C7A-46B5E2638A15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
